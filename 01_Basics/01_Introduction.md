@@ -2,7 +2,9 @@
 
 Linux is a Unix based Operating System
 <br>
+<br>
 It is created by Linus Torvalds in 1991 and the name "Linux" comes from Linus + Unix
+<br>
 <br>
 Unix is a powerful, multiuser, multitasking operating system originally founded in 1970 by AT&T Bell Labs
 
